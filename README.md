@@ -1,5 +1,14 @@
 # C Algorithms Vault
 
+Costa Rica
+
+Belinda Brown, belindabrownr04@gmail.com
+
+[![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
+[brown9804](https://github.com/brown9804)
+
+----------
+
 This repository is a collection of various algorithms implemented in the C programming language. These examples serve as a great starting point for those who want to learn more about coding in C and its applications.
 
 ## Contents
