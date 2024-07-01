@@ -1,0 +1,13 @@
+Animalitos Ascii v1
+2018, oct 16
+Ricardo Román-Brenes - ricardo.roman@ucr.ac.cr
+License WTFPL4.
+
+
+Se distribuye un Makefile con 3 reglas:
+
+    * build: compila los fuentes en bin.
+    * clean: borra los binarios de bin.
+    * run: ejecuta un corrida de ejemplo.
+
+El programa depende en Doxygen para generar su documentación en HTML y LaTeX.
