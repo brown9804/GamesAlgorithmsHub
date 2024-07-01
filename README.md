@@ -10,4 +10,4 @@ This repository is a collection of various algorithms implemented in the C progr
 4. [Floodfill](./Floodfill/README.md): This program identifies if its surroundings are identical and if so, it replaces them in the same way to the starting position by command line.
 5. [Christmas Tree](./ChristmasTree/README.md): This program draws a Christmas tree on the console. It's a fun example of how to use loops and string manipulation in C.
 6. [Turtle Moves](./TurtlesMoves/README.md): This program simulates the movements of a turtle on a 2D grid. It's a great example of how to handle complex data structures and algorithms in C.
-7. [Mouse Labyrinth](./MouseLabyrinth/README.md): 
+7. [Mouse Labyrinth](./MouseLabyrinth/README.md): This program draws a maze and solves it via command line.
