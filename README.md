@@ -1,4 +1,4 @@
-# C Games Vault
+# C Games Algorithms Vault
 
 Costa Rica
 
