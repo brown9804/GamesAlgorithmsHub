@@ -1,0 +1,167 @@
+Objetivo del juego:
+El objetivo del juego es convertirse en el jugador más rico a través de la compra, el alquiler y la venta de propiedades.
+
+Preparacion:
+Coloque el tablero en una mesa y coloque las cartas de Cofre de oportunidad y de Comunidad boca abajo.
+Abajo en sus espacios asignados en el tablero. Cada jugador elige una ficha para representarlo mientras
+viajando por el tablero.
+Cada jugador recibe $ 1,500 divididos de la siguiente manera: 2 de $ 500, $ 100 y $ 50; 6 $ 20; 5 cada uno de $ 10s, $ 5s y $ 1s.
+Suposición hecha:
+No se guardaron billetes de dinero. En cambio, hay un atributo de equilibrio para cada jugador.
+
+El banco:
+Además del dinero del banco, el banco
+posee las tarjetas de la Escritura de títulos y las casas y hoteles antes de la compra y uso por parte de los jugadores. El Banco
+paga sueldos y bonificaciones. Vende y subasta propiedades y reparte sus propias tarjetas de Título;
+vende casas y hoteles a los jugadores y presta dinero cuando es necesario en las hipotecas. El Banco
+recauda todos los impuestos, multas, préstamos e intereses, y el precio de todas las propiedades que vende
+y subastas.
+El banco nunca "se rompe". Si el Banco se queda sin dinero, el Banquero puede emitir tanto más
+según sea necesario, escribiendo en cualquier papel ordinario.
+Supuestos realizados:
+No hay clase de banco. Todas las propiedades comenzarán con un propietario que apunta a nullptr que
+Indica que nadie posee las propiedades. Cuando los jugadores requieren dinero adicional como cuando
+Al pasar por la casilla "IR", se realizará una transacción para agregar los fondos.
+Todos los impuestos y multas de "xorti" irán a la casilla de estacionamiento gratuito para obtener un bote acumulado adicional.
+
+El juego:
+Comenzando con el banquero, cada jugador a su vez lanza los dados. El jugador con el total más alto comienza.
+el juego: coloca tu ficha en la esquina marcada "IR", tira los dados y mueve la ficha en la dirección
+de la flecha el número de espacios indicado por el dado. Después de que hayas completado tu juego, el turno
+Pasa a la izquierda. Los tokens permanecen en los espacios ocupados y proceden desde ese punto en adelante.
+El siguiente turno del jugador. Dos o más fichas pueden descansar en el mismo espacio al mismo tiempo.
+Según el espacio al que llegue su token, puede tener derecho a comprar bienes raíces u otros
+propiedades - o están obligados a pagar el alquiler, pagar impuestos, robar una tarjeta Chance o Community Chest, "Ir a la cárcel", etc.
+Si lanza dobles, mueve su ficha como de costumbre, la suma de los dos dados, y está sujeto
+a cualquier privilegio o penalización relacionada con el espacio en el que aterriza. Reteniendo los dados,
+Lanza nuevamente y mueve tu ficha como antes. Si lanzas dobles tres veces seguidas,
+Mueve tu ficha inmediatamente al espacio marcado "En la cárcel".
+Supuestos realizados:
+El primer jugador en moverse lanzando la tirada de dados más alta fue eliminado. En lugar
+Comenzará el primero en registrarse.
+No ir a jugar a la cárcel o visitar la cárcel. Estos mosaicos se dejan vacíos (solo se muestran los nombres).
+
+Jugar!!:
+Cada vez que el token de un jugador cae o pasa sobre GO, ya sea lanzando los dados o robando una carta,
+el banquero le paga un salario de $ 200. Los $ 200 se pagan solo una vez cada vez alrededor del tablero. Sin embargo,
+si un jugador que pasa el GO en el lanzamiento de los dados obtiene 2 espacios más allá de él en el Cofre de la Comunidad, o 7 espacios
+más allá de eso en Chance, y extrae la tarjeta "Advance to GO", él / ella recolecta $ 200 por pasar GO the
+La primera vez y otros $ 200 para llegar a la segunda vez por instrucciones en la tarjeta.
+Suposición hecha:
+No hay cartas del Cofre de la Comunidad, solo cartas "xorti" (Ver XORTI)
+
+Compra de propiedades:
+Siempre que aterrice en una propiedad sin dueño, puede comprar esa propiedad del Banco en
+Su precio impreso. Recibes la tarjeta de Título de Propiedad que muestra la propiedad; colócalo cara
+delante de ti Si no desea comprar la propiedad, el Banquero la vende en una subasta.
+al mejor postor. El comprador paga al banco el importe de la oferta en efectivo y recibe
+la tarjeta de Título de Propiedad para esa propiedad. Cualquier jugador, incluido el que rechazó la opción.
+Para comprarlo al precio impreso, puede ofertar. La licitación puede comenzar a cualquier precio.
+
+Pago de renta:
+Cuando aterrizas en una propiedad que pertenece a otro jugador, el propietario cobra el alquiler de ti en
+De acuerdo con la lista impresa en su tarjeta de Título de Escritura. Si la propiedad está hipotecada,
+No se puede cobrar renta. Cuando una propiedad está hipotecada, su tarjeta de Escritura de Título se coloca
+boca abajo delante del dueño.
+Es una ventaja mantener todas las tarjetas de Título de propiedad en un grupo de colores (por ejemplo, Boardwalk y Park Place;
+o Connecticut, Vermont y avenidas orientales) porque el propietario puede entonces cobrar doble renta
+para propiedades no mejoradas en ese grupo de colores. Esta regla se aplica a las propiedades no almacenadas incluso
+si otra propiedad en ese grupo de colores está hipotecada.
+Es aún más ventajoso tener casas u hoteles en propiedades porque los alquileres son mucho
+Más alto que para propiedades no mejoradas. El propietario no puede cobrar la renta si falla
+Pedirlo antes de que el segundo jugador siguiente lance los dados.
+
+XORTI:
+Cuando aterrice en cualquiera de estos espacios, tome la carta superior del mazo que se indica, siga las
+Instrucciones y devuelve la carta boca abajo a la parte inferior de la baraja. Existen
+4 tarjetas xorti que son:
+1) Es su cumpleaños, recoja una cantidad aleatoria de cada otro jugador
+   (en el rango e 10 a e 100)
+2) Usted estacionó su auto en un lugar de conferenciante, y por lo tanto es multado
+   Cantidad aleatoria (en el rango e 50 a e 150)
+3) MEPA le ha multado por cada uno de sus edificios (una cantidad al azar
+   en el rango e 40 a e 180)
+4) Avanzar a una posición aleatoria en el tablero.
+
+Impuestos:
+Si aterriza aquí, tiene dos opciones: puede estimar su impuesto en $ 200 y pagar al Banco, o
+Usted puede pagar el 10% de su valor total al Banco. Su valor total es todo su efectivo disponible,
+precios impresos de las propiedades hipotecadas y no hipotecadas y el precio de costo de todos los edificios que posee.
+Debe decidir qué opción tomará antes de sumar su valor total.
+Suposición hecha:
+Sólo puede pagar $ 200, sin porcentaje del patrimonio neto.
+
+Parqueo Gratis:
+Un jugador que aterrice en este lugar no recibe ningún dinero, propiedad o recompensa de ningún tipo.
+Esto es sólo un lugar de descanso "libre".
+Suposición hecha:
+Esta ficha tendrá todo el dinero recaudado de los ingresos fiscales y las tarjetas xorti. Esto es un
+Jackpot añadido para la diversión.
+
+Casas:
+Cuando posee todas las propiedades en un grupo de colores, puede comprar casas del Banco y erigir
+ellos en esas propiedades. Si compra una casa, puede ponerla en cualquiera de esas propiedades.
+La siguiente casa que compre debe erigirse en una de las propiedades no mejoradas de esta o cualquier otra
+grupo completo de colores que puede tener.
+El precio que debe pagar al Banco por cada casa se muestra en su tarjeta de Título de Escritura de la propiedad
+sobre la cual eriges la casa. El propietario aún cobra la doble renta de un oponente que aterriza en
+Las propiedades no mejoradas de su grupo de colores completo.
+Siguiendo las reglas anteriores, puede comprar y erigir en cualquier momento tantas casas como juzgue.
+y la situación financiera lo permitirá. Pero debes construir de manera uniforme, es decir, no puedes erigir más
+de una casa en una propiedad de cualquier grupo de color hasta que haya construido una casa en
+cada propiedad de ese grupo. Entonces puede comenzar en la segunda fila de casas, y así sucesivamente, hasta una
+Límite de cuatro casas a una propiedad. Por ejemplo, no puede construir tres casas en una propiedad si tiene
+solo una casa en otra propiedad de ese grupo.
+A medida que construye de manera uniforme, también debe desglosarse de manera uniforme si vende casas al Banco (ver VENTA DE PROPIEDADES).
+Supuestos realizados:
+Solo puede construir en una casa en la que aterrizó y tener todas las propiedades del mismo color.
+No es necesario construir y vender de manera uniforme.
+No hay hoteles.
+No hay escasez de edificios del banco.
+
+Vender propiedades:
+Las propiedades, ferrocarriles y servicios públicos no mejorados (pero no los edificios) pueden venderse a cualquier jugador como un
+transacción privada por cualquier cantidad que el propietario pueda obtener; Sin embargo, ninguna propiedad puede ser vendida a
+otro jugador si los edificios están parados en cualquier propiedad de ese grupo de colores. Cualquier edificios
+por lo tanto, la ubicación debe ser vendida al Banco antes de que el propietario pueda vender cualquier propiedad de ese grupo de colores.
+Las casas y los hoteles pueden venderse al Banco en cualquier momento por la mitad del precio pagado por ellos.
+Suposición hecha:
+Las propiedades pueden ser transferidas a otros jugadores aunque tengan casas.
+El nuevo propietario no puede construir más casas si no tiene el conjunto de colores y puede
+Vende las casas en cualquier momento.
+
+Hipotecas:
+Las propiedades no mejoradas pueden hipotecarse a través del Banco en cualquier momento. Ante una propiedad mejorada.
+pueden ser hipotecados, todos los edificios en todas las propiedades de su grupo de color deben ser vendidos a
+El banco a mitad de precio. El valor de la hipoteca está impreso en cada tarjeta de Escritura de Título.
+No se puede cobrar una renta en propiedades hipotecadas o servicios públicos, pero la renta se puede cobrar en una cuenta no hipotecada
+Propiedades en el mismo grupo.
+Para levantar la hipoteca, el propietario debe pagar al Banco el monto de la hipoteca más el 10% de interés.
+Cuando todas las propiedades de un grupo de colores ya no están hipotecadas, el propietario puede comenzar a comprar casas de vuelta
+a precio completo
+El jugador que hipotecó la propiedad retiene la posesión de la misma y ningún otro jugador puede asegurarla levantando
+La hipoteca del banco. Sin embargo, el propietario puede vender esta propiedad hipotecada a otro jugador en cualquier momento.
+Precio acordado. Si usted es el nuevo propietario, puede levantar la hipoteca de una vez si lo desea pagando el
+Hipoteca más 10% de interés para el banco. Si la hipoteca no se levanta a la vez, debe pagar al Banco un 10%.
+interés cuando compra la propiedad y si luego levanta la hipoteca, debe pagar al Banco un 10% adicional
+Intereses, así como el importe de la hipoteca.
+Suposición hecha:
+Si una propiedad está hipotecada y se vende como una transacción privada, no hay una adición del 10%
+Intereses si el nuevo propietario no pagó la hipoteca inmediatamente.
+
+Bancarota:
+Se declara en bancarrota si debe más de lo que puede pagar a otro jugador o al Banco.
+Si su deuda es con otro jugador, debe entregar a ese jugador todo lo que tenga de valor y
+retirarse del juego.
+Al hacer este acuerdo, si posee casas u hoteles, debe devolverlos al Banco a cambio.
+por dinero hasta la mitad de la cantidad pagada por ellos.
+Este efectivo se le da al acreedor. Si usted tiene una propiedad hipotecada, también le da la vuelta a esta propiedad.
+su acreedor, pero el nuevo propietario debe pagar inmediatamente al Banco el monto de los intereses del préstamo, que es
+10% del valor de la propiedad.
+El nuevo propietario que hace esto puede, a su opción, pagar el capital o retener la propiedad hasta que
+Más tarde girar, luego levantar la hipoteca. Si mantienen la propiedad de esta manera hasta un turno posterior, deberán pagar la
+De nuevo el interés al levantar la hipoteca.
+Si le debe al Banco, en lugar de a otro jugador, más de lo que puede pagar (debido a los impuestos o multas)
+Incluso vendiendo edificios e hipotecando propiedades, debe entregar todos los activos al Banco. En este caso,
+El Banco vende inmediatamente en subasta todos los bienes tomados, excepto los edificios. Un jugador en bancarrota debe inmediatamente
+retirarse del juego. El último jugador que queda en el juego gana.

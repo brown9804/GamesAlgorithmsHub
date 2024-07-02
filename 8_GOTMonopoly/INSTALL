@@ -1,0 +1,12 @@
+Monopoly GOT v1
+Marzo 2019
+Belinda Brown Ramírez - timna.brown@ucr.ac.cr
+Carolina Urrutia Núñez - ana.urrutia@ucr.ac.cr
+License WTFPL4.
+
+
+Se distribuye un Makefile con 3 reglas:
+
+    * build: compila los fuentes.
+    * clean: borra los binarios.
+    * run: ejecuta un corrida de ejemplo.
