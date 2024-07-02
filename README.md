@@ -1,4 +1,4 @@
-# C - Games Algorithms Vault
+# Games Algorithms Vault
 
 Costa Rica
 
@@ -9,7 +9,7 @@ Belinda Brown, belindabrownr04@gmail.com
 
 ----------
 
-This repository is a collection of various algorithms implemented in the C programming language. These examples serve as a great starting point for those who want to learn more about coding in C and its applications.
+This repository is a collection of various algorithms implemented in different programming language. These examples serve as a great starting point for those who want to learn more about coding and its applications.
 
 ## Contents
 
