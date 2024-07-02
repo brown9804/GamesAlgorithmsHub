@@ -20,3 +20,4 @@ This repository is a collection of various algorithms implemented in different p
 5. `C` [Christmas Tree](./5_ChristmasTree/README.md): This program draws a Christmas tree on the console. It's a fun example of how to use loops and string manipulation in C.
 6. `C` [Turtle Moves](./6_TurtlesMoves/README.md): This program simulates the movements of a turtle on a 2D grid. It's a great example of how to handle complex data structures and algorithms in C.
 7. `C` [Mouse Labyrinth](./7_MouseLabyrinth/README.md): This program draws a maze and solves it via command line.
+8. `C++` [Monopoly Games of Thrones](./8_MonopolyGOT/README.md): This is a text-based version of the classic Monopoly game with a twist of the Game of Thrones theme. The game supports up to eight players and follows the same rules as the original Monopoly.
