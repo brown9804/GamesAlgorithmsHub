@@ -14,10 +14,9 @@ This repository is a collection of various algorithms implemented in different p
 ## Contents
 
 1. `C` [Simulating Space Invaders](./1_SpaceInvaders/README.md): This program simulates the classic game of Space Invaders. It demonstrates how to handle user input, game physics, collision detection, and rendering in C.
-2. `C` [Examples of How C Works](./2_BeginnerExercises/README.md): This section contains various examples that demonstrate the working of C language. It covers topics like variables, data types, control structures, functions, pointers, and more.
-3. `C` [Drawing a Flower with Recursive Circles](./3_CircleFlowers/README.md): This program draws a flower with recursive circles. The number of circles is provided via the command line. It's a great example of recursion and graphics programming in C.
-4. `C` [Floodfill](./4_Floodfill/README.md): This program identifies if its surroundings are identical and if so, it replaces them in the same way to the starting position by command line.
-5. `C` [Christmas Tree](./5_ChristmasTree/README.md): This program draws a Christmas tree on the console. It's a fun example of how to use loops and string manipulation in C.
-6. `C` [Turtle Moves](./6_TurtlesMoves/README.md): This program simulates the movements of a turtle on a 2D grid. It's a great example of how to handle complex data structures and algorithms in C.
-7. `C` [Mouse Labyrinth](./7_MouseLabyrinth/README.md): This program draws a maze and solves it via command line.
-8. `C++` [Monopoly Games of Thrones](./8_MonopolyGOT/README.md): This is a text-based version of the classic Monopoly game with a twist of the Game of Thrones theme. The game supports up to eight players and follows the same rules as the original Monopoly.
+2. `C` [Drawing a Flower with Recursive Circles](./2_CircleFlowers/README.md): This program draws a flower with recursive circles. The number of circles is provided via the command line. It's a great example of recursion and graphics programming in C.
+3. `C` [Floodfill](./3_Floodfill/README.md): This program identifies if its surroundings are identical and if so, it replaces them in the same way to the starting position by command line.
+4. `C` [Christmas Tree](./4_ChristmasTree/README.md): This program draws a Christmas tree on the console. It's a fun example of how to use loops and string manipulation in C.
+5. `C` [Turtle Moves](./5_TurtlesMoves/README.md): This program simulates the movements of a turtle on a 2D grid. It's a great example of how to handle complex data structures and algorithms in C.
+6. `C` [Mouse Labyrinth](./6_MouseLabyrinth/README.md): This program draws a maze and solves it via command line.
+7. `C++` [Monopoly Games of Thrones](./7_MonopolyGOT/README.md): This is a text-based version of the classic Monopoly game with a twist of the Game of Thrones theme. The game supports up to eight players and follows the same rules as the original Monopoly.
