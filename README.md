@@ -1,4 +1,4 @@
-# Games Algorithms Vault
+# Games Algorithms Hub
 
 Costa Rica
 
