@@ -9,11 +9,6 @@ Last updated: 2020-04-14
 
 ------------------------------------------
 
-<div align="center">
-  <h3 style="color: #4CAF50;">Total Visitors</h3>
-  <img src="https://profile-counter.glitch.me/brown9804/count.svg" alt="Visitor Count" style="border: 2px solid #4CAF50; border-radius: 5px; padding: 5px;"/>
-</div>
-
 > This repository is a collection of various algorithms implemented in different programming language. These examples serve as a great starting point for those who want to learn more about coding and its applications.
 
 ## Contents
@@ -25,3 +20,8 @@ Last updated: 2020-04-14
 5. `C` [Turtle Moves](./5_TurtlesMoves/README.md): This program simulates the movements of a turtle on a 2D grid. It's a great example of how to handle complex data structures and algorithms in C.
 6. `C` [Mouse Labyrinth](./6_MouseLabyrinth/README.md): This program draws a maze and solves it via command line.
 7. `C++` [Monopoly Games of Thrones](./7_MonopolyGOT/README.md): This is a text-based version of the classic Monopoly game with a twist of the Game of Thrones theme. The game supports up to eight players and follows the same rules as the original Monopoly.
+
+<div align="center">
+  <h3 style="color: #4CAF50;">Total Visitors</h3>
+  <img src="https://profile-counter.glitch.me/brown9804/count.svg" alt="Visitor Count" style="border: 2px solid #4CAF50; border-radius: 5px; padding: 5px;"/>
+</div>
